@@ -1,0 +1,1 @@
+export 'package:travel_app_1/presentation/styles/app_text_styles.dart';
